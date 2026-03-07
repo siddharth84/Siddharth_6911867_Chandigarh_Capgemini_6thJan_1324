@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\bin\Debug\net10.0\SumOfCubesOfPrimes.exe
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\bin\Debug\net10.0\SumOfCubesOfPrimes.deps.json
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\bin\Debug\net10.0\SumOfCubesOfPrimes.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\bin\Debug\net10.0\SumOfCubesOfPrimes.dll
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\bin\Debug\net10.0\SumOfCubesOfPrimes.pdb
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\obj\Debug\net10.0\SumOfCubesOfPrimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\obj\Debug\net10.0\SumOfCubesOfPrimes.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\obj\Debug\net10.0\SumOfCubesOfPrimes.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\obj\Debug\net10.0\SumOfCubesOfPrimes.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\obj\Debug\net10.0\SumOfCubesOfPrimes.dll
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\obj\Debug\net10.0\refint\SumOfCubesOfPrimes.dll
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\obj\Debug\net10.0\SumOfCubesOfPrimes.pdb
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\obj\Debug\net10.0\SumOfCubesOfPrimes.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day2\SumOfCubesOfPrimes\obj\Debug\net10.0\ref\SumOfCubesOfPrimes.dll

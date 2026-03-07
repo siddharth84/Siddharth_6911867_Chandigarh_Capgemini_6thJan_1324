@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\bin\Debug\net10.0\AverageDivisibleByFive.exe
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\bin\Debug\net10.0\AverageDivisibleByFive.deps.json
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\bin\Debug\net10.0\AverageDivisibleByFive.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\bin\Debug\net10.0\AverageDivisibleByFive.dll
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\bin\Debug\net10.0\AverageDivisibleByFive.pdb
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\obj\Debug\net10.0\AverageDivisibleByFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\obj\Debug\net10.0\AverageDivisibleByFive.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\obj\Debug\net10.0\AverageDivisibleByFive.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\obj\Debug\net10.0\AverageDivisibleByFive.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\obj\Debug\net10.0\AverageDivisibleByFive.dll
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\obj\Debug\net10.0\refint\AverageDivisibleByFive.dll
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\obj\Debug\net10.0\AverageDivisibleByFive.pdb
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\obj\Debug\net10.0\AverageDivisibleByFive.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day3\AverageDivisibleByFive\obj\Debug\net10.0\ref\AverageDivisibleByFive.dll

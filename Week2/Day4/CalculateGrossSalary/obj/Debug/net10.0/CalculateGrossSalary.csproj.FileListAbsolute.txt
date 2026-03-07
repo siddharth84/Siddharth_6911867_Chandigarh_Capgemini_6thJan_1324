@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\bin\Debug\net10.0\CalculateGrossSalary.exe
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\bin\Debug\net10.0\CalculateGrossSalary.deps.json
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\bin\Debug\net10.0\CalculateGrossSalary.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\bin\Debug\net10.0\CalculateGrossSalary.dll
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\bin\Debug\net10.0\CalculateGrossSalary.pdb
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\obj\Debug\net10.0\CalculateGrossSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\obj\Debug\net10.0\CalculateGrossSalary.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\obj\Debug\net10.0\CalculateGrossSalary.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\obj\Debug\net10.0\CalculateGrossSalary.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\obj\Debug\net10.0\CalculateGrossSalary.dll
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\obj\Debug\net10.0\refint\CalculateGrossSalary.dll
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\obj\Debug\net10.0\CalculateGrossSalary.pdb
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\obj\Debug\net10.0\CalculateGrossSalary.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\CalculateGrossSalary\obj\Debug\net10.0\ref\CalculateGrossSalary.dll

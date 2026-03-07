@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\bin\Debug\net10.0\FilmLibrary.exe
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\bin\Debug\net10.0\FilmLibrary.deps.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\bin\Debug\net10.0\FilmLibrary.runtimeconfig.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\bin\Debug\net10.0\FilmLibrary.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\bin\Debug\net10.0\FilmLibrary.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\obj\Debug\net10.0\FilmLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\obj\Debug\net10.0\FilmLibrary.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\obj\Debug\net10.0\FilmLibrary.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\obj\Debug\net10.0\FilmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\obj\Debug\net10.0\FilmLibrary.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\obj\Debug\net10.0\refint\FilmLibrary.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\obj\Debug\net10.0\FilmLibrary.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\obj\Debug\net10.0\FilmLibrary.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\FilmLibrary\obj\Debug\net10.0\ref\FilmLibrary.dll

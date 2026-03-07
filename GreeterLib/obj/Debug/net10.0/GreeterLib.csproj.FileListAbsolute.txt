@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\GreeterLib\bin\Debug\net10.0\GreeterLib.deps.json
+C:\Users\dell\source\repos\GreeterLib\bin\Debug\net10.0\GreeterLib.dll
+C:\Users\dell\source\repos\GreeterLib\bin\Debug\net10.0\GreeterLib.pdb
+C:\Users\dell\source\repos\GreeterLib\obj\Debug\net10.0\GreeterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\GreeterLib\obj\Debug\net10.0\GreeterLib.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\GreeterLib\obj\Debug\net10.0\GreeterLib.AssemblyInfo.cs
+C:\Users\dell\source\repos\GreeterLib\obj\Debug\net10.0\GreeterLib.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\GreeterLib\obj\Debug\net10.0\GreeterLib.dll
+C:\Users\dell\source\repos\GreeterLib\obj\Debug\net10.0\refint\GreeterLib.dll
+C:\Users\dell\source\repos\GreeterLib\obj\Debug\net10.0\GreeterLib.pdb
+C:\Users\dell\source\repos\GreeterLib\obj\Debug\net10.0\ref\GreeterLib.dll

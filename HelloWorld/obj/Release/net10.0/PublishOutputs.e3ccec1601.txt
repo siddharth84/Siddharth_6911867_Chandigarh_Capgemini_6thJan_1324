@@ -1,0 +1,5 @@
+C:\Users\dell\source\repos\HelloWorld\bin\Release\net10.0\publish\HelloWorld.exe
+C:\Users\dell\source\repos\HelloWorld\bin\Release\net10.0\publish\HelloWorld.dll
+C:\Users\dell\source\repos\HelloWorld\bin\Release\net10.0\publish\HelloWorld.deps.json
+C:\Users\dell\source\repos\HelloWorld\bin\Release\net10.0\publish\HelloWorld.runtimeconfig.json
+C:\Users\dell\source\repos\HelloWorld\bin\Release\net10.0\publish\HelloWorld.pdb

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\bin\Debug\net10.0\CountMultiples.exe
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\bin\Debug\net10.0\CountMultiples.deps.json
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\bin\Debug\net10.0\CountMultiples.runtimeconfig.json
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\bin\Debug\net10.0\CountMultiples.dll
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\bin\Debug\net10.0\CountMultiples.pdb
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\obj\Debug\net10.0\CountMultiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\obj\Debug\net10.0\CountMultiples.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\obj\Debug\net10.0\CountMultiples.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\obj\Debug\net10.0\CountMultiples.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\obj\Debug\net10.0\CountMultiples.dll
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\obj\Debug\net10.0\refint\CountMultiples.dll
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\obj\Debug\net10.0\CountMultiples.pdb
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\obj\Debug\net10.0\CountMultiples.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week1\Day5\CountMultiples\obj\Debug\net10.0\ref\CountMultiples.dll

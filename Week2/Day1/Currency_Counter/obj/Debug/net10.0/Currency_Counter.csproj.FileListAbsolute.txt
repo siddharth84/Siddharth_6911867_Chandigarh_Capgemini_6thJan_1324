@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\bin\Debug\net10.0\Currency_Counter.exe
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\bin\Debug\net10.0\Currency_Counter.deps.json
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\bin\Debug\net10.0\Currency_Counter.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\bin\Debug\net10.0\Currency_Counter.dll
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\bin\Debug\net10.0\Currency_Counter.pdb
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\obj\Debug\net10.0\Currency_Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\obj\Debug\net10.0\Currency_Counter.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\obj\Debug\net10.0\Currency_Counter.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\obj\Debug\net10.0\Currency_Counter.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\obj\Debug\net10.0\Currency_Counter.dll
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\obj\Debug\net10.0\refint\Currency_Counter.dll
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\obj\Debug\net10.0\Currency_Counter.pdb
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\obj\Debug\net10.0\Currency_Counter.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day1\Currency_Counter\obj\Debug\net10.0\ref\Currency_Counter.dll

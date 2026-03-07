@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\bin\Debug\net10.0\Remove_Negative_And_Sort.exe
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\bin\Debug\net10.0\Remove_Negative_And_Sort.deps.json
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\bin\Debug\net10.0\Remove_Negative_And_Sort.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\bin\Debug\net10.0\Remove_Negative_And_Sort.dll
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\bin\Debug\net10.0\Remove_Negative_And_Sort.pdb
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\obj\Debug\net10.0\Remove_Negative_And_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\obj\Debug\net10.0\Remove_Negative_And_Sort.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\obj\Debug\net10.0\Remove_Negative_And_Sort.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\obj\Debug\net10.0\Remove_Negative_And_Sort.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\obj\Debug\net10.0\Remove_Negative_And_Sort.dll
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\obj\Debug\net10.0\refint\Remove_Negative_And_Sort.dll
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\obj\Debug\net10.0\Remove_Negative_And_Sort.pdb
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\obj\Debug\net10.0\Remove_Negative_And_Sort.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day1\Remove_Negative_And_Sort\obj\Debug\net10.0\ref\Remove_Negative_And_Sort.dll

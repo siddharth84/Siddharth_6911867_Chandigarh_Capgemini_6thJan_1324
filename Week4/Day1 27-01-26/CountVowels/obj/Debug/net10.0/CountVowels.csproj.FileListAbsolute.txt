@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\bin\Debug\net10.0\CountVowels.exe
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\bin\Debug\net10.0\CountVowels.deps.json
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\bin\Debug\net10.0\CountVowels.runtimeconfig.json
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\bin\Debug\net10.0\CountVowels.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\bin\Debug\net10.0\CountVowels.pdb
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\obj\Debug\net10.0\CountVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\obj\Debug\net10.0\CountVowels.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\obj\Debug\net10.0\CountVowels.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\obj\Debug\net10.0\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\obj\Debug\net10.0\CountVowels.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\obj\Debug\net10.0\refint\CountVowels.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\obj\Debug\net10.0\CountVowels.pdb
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\obj\Debug\net10.0\CountVowels.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\CountVowels\obj\Debug\net10.0\ref\CountVowels.dll

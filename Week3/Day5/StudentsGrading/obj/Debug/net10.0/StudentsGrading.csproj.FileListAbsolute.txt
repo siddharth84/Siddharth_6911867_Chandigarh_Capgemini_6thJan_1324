@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\bin\Debug\net10.0\StudentsGrading.exe
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\bin\Debug\net10.0\StudentsGrading.deps.json
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\bin\Debug\net10.0\StudentsGrading.runtimeconfig.json
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\bin\Debug\net10.0\StudentsGrading.dll
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\bin\Debug\net10.0\StudentsGrading.pdb
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\obj\Debug\net10.0\StudentsGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\obj\Debug\net10.0\StudentsGrading.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\obj\Debug\net10.0\StudentsGrading.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\obj\Debug\net10.0\StudentsGrading.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\obj\Debug\net10.0\StudentsGrading.dll
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\obj\Debug\net10.0\refint\StudentsGrading.dll
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\obj\Debug\net10.0\StudentsGrading.pdb
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\obj\Debug\net10.0\StudentsGrading.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week3\Day5\StudentsGrading\obj\Debug\net10.0\ref\StudentsGrading.dll

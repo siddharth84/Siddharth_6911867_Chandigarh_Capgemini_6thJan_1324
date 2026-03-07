@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\bin\Debug\net10.0\Remove_Repeated_Elements.exe
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\bin\Debug\net10.0\Remove_Repeated_Elements.deps.json
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\bin\Debug\net10.0\Remove_Repeated_Elements.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\bin\Debug\net10.0\Remove_Repeated_Elements.dll
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\bin\Debug\net10.0\Remove_Repeated_Elements.pdb
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\obj\Debug\net10.0\Remove_Repeated_Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\obj\Debug\net10.0\Remove_Repeated_Elements.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\obj\Debug\net10.0\Remove_Repeated_Elements.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\obj\Debug\net10.0\Remove_Repeated_Elements.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\obj\Debug\net10.0\Remove_Repeated_Elements.dll
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\obj\Debug\net10.0\refint\Remove_Repeated_Elements.dll
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\obj\Debug\net10.0\Remove_Repeated_Elements.pdb
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\obj\Debug\net10.0\Remove_Repeated_Elements.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day1\Remove_Repeated_Elements\obj\Debug\net10.0\ref\Remove_Repeated_Elements.dll

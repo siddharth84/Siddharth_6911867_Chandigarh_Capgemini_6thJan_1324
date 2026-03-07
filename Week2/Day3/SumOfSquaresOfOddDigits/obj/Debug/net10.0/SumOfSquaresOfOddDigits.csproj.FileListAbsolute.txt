@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\bin\Debug\net10.0\SumOfSquaresOfOddDigits.exe
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\bin\Debug\net10.0\SumOfSquaresOfOddDigits.deps.json
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\bin\Debug\net10.0\SumOfSquaresOfOddDigits.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\bin\Debug\net10.0\SumOfSquaresOfOddDigits.dll
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\bin\Debug\net10.0\SumOfSquaresOfOddDigits.pdb
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\obj\Debug\net10.0\SumOfSquaresOfOddDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\obj\Debug\net10.0\SumOfSquaresOfOddDigits.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\obj\Debug\net10.0\SumOfSquaresOfOddDigits.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\obj\Debug\net10.0\SumOfSquaresOfOddDigits.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\obj\Debug\net10.0\SumOfSquaresOfOddDigits.dll
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\obj\Debug\net10.0\refint\SumOfSquaresOfOddDigits.dll
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\obj\Debug\net10.0\SumOfSquaresOfOddDigits.pdb
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\obj\Debug\net10.0\SumOfSquaresOfOddDigits.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day3\SumOfSquaresOfOddDigits\obj\Debug\net10.0\ref\SumOfSquaresOfOddDigits.dll

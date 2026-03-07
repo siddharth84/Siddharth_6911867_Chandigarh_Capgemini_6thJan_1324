@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\bin\Debug\net10.0\CalculateSavings.exe
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\bin\Debug\net10.0\CalculateSavings.deps.json
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\bin\Debug\net10.0\CalculateSavings.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\bin\Debug\net10.0\CalculateSavings.dll
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\bin\Debug\net10.0\CalculateSavings.pdb
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\obj\Debug\net10.0\CalculateSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\obj\Debug\net10.0\CalculateSavings.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\obj\Debug\net10.0\CalculateSavings.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\obj\Debug\net10.0\CalculateSavings.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\obj\Debug\net10.0\CalculateSavings.dll
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\obj\Debug\net10.0\refint\CalculateSavings.dll
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\obj\Debug\net10.0\CalculateSavings.pdb
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\obj\Debug\net10.0\CalculateSavings.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\CalculateSavings\obj\Debug\net10.0\ref\CalculateSavings.dll

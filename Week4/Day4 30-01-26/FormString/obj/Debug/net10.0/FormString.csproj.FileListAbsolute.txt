@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\bin\Debug\net10.0\FormString.exe
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\bin\Debug\net10.0\FormString.deps.json
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\bin\Debug\net10.0\FormString.runtimeconfig.json
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\bin\Debug\net10.0\FormString.dll
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\bin\Debug\net10.0\FormString.pdb
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\obj\Debug\net10.0\FormString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\obj\Debug\net10.0\FormString.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\obj\Debug\net10.0\FormString.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\obj\Debug\net10.0\FormString.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\obj\Debug\net10.0\FormString.dll
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\obj\Debug\net10.0\refint\FormString.dll
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\obj\Debug\net10.0\FormString.pdb
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\obj\Debug\net10.0\FormString.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\FormString\obj\Debug\net10.0\ref\FormString.dll

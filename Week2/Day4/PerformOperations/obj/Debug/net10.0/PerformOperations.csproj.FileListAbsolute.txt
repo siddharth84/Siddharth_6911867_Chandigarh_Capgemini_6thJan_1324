@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\bin\Debug\net10.0\PerformOperations.exe
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\bin\Debug\net10.0\PerformOperations.deps.json
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\bin\Debug\net10.0\PerformOperations.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\bin\Debug\net10.0\PerformOperations.dll
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\bin\Debug\net10.0\PerformOperations.pdb
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\obj\Debug\net10.0\PerformOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\obj\Debug\net10.0\PerformOperations.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\obj\Debug\net10.0\PerformOperations.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\obj\Debug\net10.0\PerformOperations.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\obj\Debug\net10.0\PerformOperations.dll
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\obj\Debug\net10.0\refint\PerformOperations.dll
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\obj\Debug\net10.0\PerformOperations.pdb
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\obj\Debug\net10.0\PerformOperations.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\PerformOperations\obj\Debug\net10.0\ref\PerformOperations.dll

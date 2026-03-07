@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\CashFlow\bin\Debug\net10.0\CashFlow.exe
+C:\Users\dell\source\repos\CashFlow\bin\Debug\net10.0\CashFlow.deps.json
+C:\Users\dell\source\repos\CashFlow\bin\Debug\net10.0\CashFlow.runtimeconfig.json
+C:\Users\dell\source\repos\CashFlow\bin\Debug\net10.0\CashFlow.dll
+C:\Users\dell\source\repos\CashFlow\bin\Debug\net10.0\CashFlow.pdb
+C:\Users\dell\source\repos\CashFlow\obj\Debug\net10.0\CashFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\CashFlow\obj\Debug\net10.0\CashFlow.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\CashFlow\obj\Debug\net10.0\CashFlow.AssemblyInfo.cs
+C:\Users\dell\source\repos\CashFlow\obj\Debug\net10.0\CashFlow.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\CashFlow\obj\Debug\net10.0\CashFlow.dll
+C:\Users\dell\source\repos\CashFlow\obj\Debug\net10.0\refint\CashFlow.dll
+C:\Users\dell\source\repos\CashFlow\obj\Debug\net10.0\CashFlow.pdb
+C:\Users\dell\source\repos\CashFlow\obj\Debug\net10.0\CashFlow.genruntimeconfig.cache
+C:\Users\dell\source\repos\CashFlow\obj\Debug\net10.0\ref\CashFlow.dll

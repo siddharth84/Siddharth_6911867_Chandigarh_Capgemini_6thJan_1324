@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Week5\\Day 1 02-02-26\\StrongPasswordValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3415F59-9966-4E6B-B8A7-5D8C98241635}|StrongPasswordValidation.csproj|c:\\users\\dell\\source\\repos\\week5\\day 1 02-02-26\\strongpasswordvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3415F59-9966-4E6B-B8A7-5D8C98241635}|StrongPasswordValidation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week5\\Day 1 02-02-26\\StrongPasswordValidation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week5\\Day 1 02-02-26\\StrongPasswordValidation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T06:31:57.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

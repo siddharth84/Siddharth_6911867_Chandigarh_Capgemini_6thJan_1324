@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\bin\Debug\net10.0\CountRepeatingElement.exe
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\bin\Debug\net10.0\CountRepeatingElement.deps.json
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\bin\Debug\net10.0\CountRepeatingElement.runtimeconfig.json
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\bin\Debug\net10.0\CountRepeatingElement.dll
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\bin\Debug\net10.0\CountRepeatingElement.pdb
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\obj\Debug\net10.0\CountRepeatingElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\obj\Debug\net10.0\CountRepeatingElement.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\obj\Debug\net10.0\CountRepeatingElement.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\obj\Debug\net10.0\CountRepeatingElement.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\obj\Debug\net10.0\CountRepeatingElement.dll
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\obj\Debug\net10.0\refint\CountRepeatingElement.dll
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\obj\Debug\net10.0\CountRepeatingElement.pdb
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\obj\Debug\net10.0\CountRepeatingElement.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week1\Day5\CountRepeatingElement\obj\Debug\net10.0\ref\CountRepeatingElement.dll

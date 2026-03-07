@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\bin\Debug\net10.0\AddTwoArray.exe
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\bin\Debug\net10.0\AddTwoArray.deps.json
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\bin\Debug\net10.0\AddTwoArray.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\bin\Debug\net10.0\AddTwoArray.dll
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\bin\Debug\net10.0\AddTwoArray.pdb
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\obj\Debug\net10.0\AddTwoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\obj\Debug\net10.0\AddTwoArray.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\obj\Debug\net10.0\AddTwoArray.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\obj\Debug\net10.0\AddTwoArray.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\obj\Debug\net10.0\AddTwoArray.dll
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\obj\Debug\net10.0\refint\AddTwoArray.dll
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\obj\Debug\net10.0\AddTwoArray.pdb
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\obj\Debug\net10.0\AddTwoArray.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\AddTwoArray\obj\Debug\net10.0\ref\AddTwoArray.dll

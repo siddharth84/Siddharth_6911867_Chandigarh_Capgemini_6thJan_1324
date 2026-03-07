@@ -1,0 +1,14 @@
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.exe
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.deps.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.runtimeconfig.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\bin\Debug\net10.0\E-Commerce Category Analytics.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.AssemblyInfoInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.AssemblyInfo.cs
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.csproj.CoreCompileInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\obj\Debug\net10.0\refint\E-Commerce Category Analytics.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\obj\Debug\net10.0\E-Commerce Category Analytics.genruntimeconfig.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\E-Commerce Category Analytics\obj\Debug\net10.0\ref\E-Commerce Category Analytics.dll

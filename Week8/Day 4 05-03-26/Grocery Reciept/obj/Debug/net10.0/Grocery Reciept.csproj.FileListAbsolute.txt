@@ -1,0 +1,28 @@
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.exe
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.deps.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.runtimeconfig.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.AssemblyInfoInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.AssemblyInfo.cs
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.csproj.CoreCompileInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\obj\Debug\net10.0\refint\Grocery Reciept.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.genruntimeconfig.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Grocery Reciept\obj\Debug\net10.0\ref\Grocery Reciept.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.exe
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.deps.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.runtimeconfig.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\bin\Debug\net10.0\Grocery Reciept.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\obj\Debug\net10.0\refint\Grocery Reciept.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\obj\Debug\net10.0\Grocery Reciept.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Grocery Reciept\obj\Debug\net10.0\ref\Grocery Reciept.dll

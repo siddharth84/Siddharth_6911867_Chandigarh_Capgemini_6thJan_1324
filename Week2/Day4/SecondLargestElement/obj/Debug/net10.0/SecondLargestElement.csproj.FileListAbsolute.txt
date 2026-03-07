@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.exe
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.deps.json
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.dll
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\bin\Debug\net10.0\SecondLargestElement.pdb
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.dll
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\obj\Debug\net10.0\refint\SecondLargestElement.dll
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.pdb
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\obj\Debug\net10.0\SecondLargestElement.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\SecondLargestElement\obj\Debug\net10.0\ref\SecondLargestElement.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\bin\Debug\net10.0\ShipStory.exe
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\bin\Debug\net10.0\ShipStory.deps.json
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\bin\Debug\net10.0\ShipStory.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\bin\Debug\net10.0\ShipStory.dll
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\bin\Debug\net10.0\ShipStory.pdb
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\obj\Debug\net10.0\ShipStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\obj\Debug\net10.0\ShipStory.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\obj\Debug\net10.0\ShipStory.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\obj\Debug\net10.0\ShipStory.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\obj\Debug\net10.0\ShipStory.dll
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\obj\Debug\net10.0\refint\ShipStory.dll
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\obj\Debug\net10.0\ShipStory.pdb
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\obj\Debug\net10.0\ShipStory.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\ShipStory\obj\Debug\net10.0\ref\ShipStory.dll

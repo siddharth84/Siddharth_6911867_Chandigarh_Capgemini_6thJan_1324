@@ -1,0 +1,14 @@
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\bin\Debug\net10.0\Cars Managment.exe
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\bin\Debug\net10.0\Cars Managment.deps.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\bin\Debug\net10.0\Cars Managment.runtimeconfig.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\bin\Debug\net10.0\Cars Managment.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\bin\Debug\net10.0\Cars Managment.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\obj\Debug\net10.0\Cars Managment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\obj\Debug\net10.0\Cars Managment.AssemblyInfoInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\obj\Debug\net10.0\Cars Managment.AssemblyInfo.cs
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\obj\Debug\net10.0\Cars Managment.csproj.CoreCompileInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\obj\Debug\net10.0\Cars Managment.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\obj\Debug\net10.0\refint\Cars Managment.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\obj\Debug\net10.0\Cars Managment.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\obj\Debug\net10.0\Cars Managment.genruntimeconfig.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Cars Managment\obj\Debug\net10.0\ref\Cars Managment.dll

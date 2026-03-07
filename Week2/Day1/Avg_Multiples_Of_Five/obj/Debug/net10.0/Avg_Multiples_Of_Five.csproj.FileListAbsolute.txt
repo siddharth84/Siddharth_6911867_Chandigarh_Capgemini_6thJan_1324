@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\bin\Debug\net10.0\Avg_Multiples_Of_Five.exe
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\bin\Debug\net10.0\Avg_Multiples_Of_Five.deps.json
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\bin\Debug\net10.0\Avg_Multiples_Of_Five.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\bin\Debug\net10.0\Avg_Multiples_Of_Five.dll
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\bin\Debug\net10.0\Avg_Multiples_Of_Five.pdb
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\obj\Debug\net10.0\Avg_Multiples_Of_Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\obj\Debug\net10.0\Avg_Multiples_Of_Five.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\obj\Debug\net10.0\Avg_Multiples_Of_Five.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\obj\Debug\net10.0\Avg_Multiples_Of_Five.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\obj\Debug\net10.0\Avg_Multiples_Of_Five.dll
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\obj\Debug\net10.0\refint\Avg_Multiples_Of_Five.dll
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\obj\Debug\net10.0\Avg_Multiples_Of_Five.pdb
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\obj\Debug\net10.0\Avg_Multiples_Of_Five.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day1\Avg_Multiples_Of_Five\obj\Debug\net10.0\ref\Avg_Multiples_Of_Five.dll

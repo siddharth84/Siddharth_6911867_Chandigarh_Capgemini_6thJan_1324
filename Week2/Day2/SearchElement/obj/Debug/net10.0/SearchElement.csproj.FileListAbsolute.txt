@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\bin\Debug\net10.0\SearchElement.exe
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\bin\Debug\net10.0\SearchElement.deps.json
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\bin\Debug\net10.0\SearchElement.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\bin\Debug\net10.0\SearchElement.dll
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\bin\Debug\net10.0\SearchElement.pdb
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\obj\Debug\net10.0\SearchElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\obj\Debug\net10.0\SearchElement.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\obj\Debug\net10.0\SearchElement.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\obj\Debug\net10.0\SearchElement.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\obj\Debug\net10.0\SearchElement.dll
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\obj\Debug\net10.0\refint\SearchElement.dll
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\obj\Debug\net10.0\SearchElement.pdb
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\obj\Debug\net10.0\SearchElement.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day2\SearchElement\obj\Debug\net10.0\ref\SearchElement.dll

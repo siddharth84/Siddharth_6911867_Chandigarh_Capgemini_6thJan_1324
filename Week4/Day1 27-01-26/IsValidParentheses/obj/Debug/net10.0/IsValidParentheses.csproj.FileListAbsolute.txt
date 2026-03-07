@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\bin\Debug\net10.0\IsValidParentheses.exe
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\bin\Debug\net10.0\IsValidParentheses.deps.json
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\bin\Debug\net10.0\IsValidParentheses.runtimeconfig.json
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\bin\Debug\net10.0\IsValidParentheses.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\bin\Debug\net10.0\IsValidParentheses.pdb
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\obj\Debug\net10.0\IsValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\obj\Debug\net10.0\IsValidParentheses.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\obj\Debug\net10.0\IsValidParentheses.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\obj\Debug\net10.0\IsValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\obj\Debug\net10.0\IsValidParentheses.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\obj\Debug\net10.0\refint\IsValidParentheses.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\obj\Debug\net10.0\IsValidParentheses.pdb
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\obj\Debug\net10.0\IsValidParentheses.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\IsValidParentheses\obj\Debug\net10.0\ref\IsValidParentheses.dll

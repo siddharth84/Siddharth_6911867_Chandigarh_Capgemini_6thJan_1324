@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\bin\Debug\net10.0\CountTripleRepeats.exe
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\bin\Debug\net10.0\CountTripleRepeats.deps.json
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\bin\Debug\net10.0\CountTripleRepeats.runtimeconfig.json
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\bin\Debug\net10.0\CountTripleRepeats.dll
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\bin\Debug\net10.0\CountTripleRepeats.pdb
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\obj\Debug\net10.0\CountTripleRepeats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\obj\Debug\net10.0\CountTripleRepeats.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\obj\Debug\net10.0\CountTripleRepeats.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\obj\Debug\net10.0\CountTripleRepeats.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\obj\Debug\net10.0\CountTripleRepeats.dll
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\obj\Debug\net10.0\refint\CountTripleRepeats.dll
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\obj\Debug\net10.0\CountTripleRepeats.pdb
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\obj\Debug\net10.0\CountTripleRepeats.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\CountTripleRepeats\obj\Debug\net10.0\ref\CountTripleRepeats.dll

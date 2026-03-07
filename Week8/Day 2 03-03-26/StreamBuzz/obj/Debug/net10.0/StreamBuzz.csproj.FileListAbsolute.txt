@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\bin\Debug\net10.0\StreamBuzz.exe
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\bin\Debug\net10.0\StreamBuzz.deps.json
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\bin\Debug\net10.0\StreamBuzz.runtimeconfig.json
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\bin\Debug\net10.0\StreamBuzz.dll
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\bin\Debug\net10.0\StreamBuzz.pdb
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\obj\Debug\net10.0\StreamBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\obj\Debug\net10.0\StreamBuzz.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\obj\Debug\net10.0\StreamBuzz.dll
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\obj\Debug\net10.0\refint\StreamBuzz.dll
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\obj\Debug\net10.0\StreamBuzz.pdb
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\obj\Debug\net10.0\StreamBuzz.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week8\Day 2 03-03-26\StreamBuzz\obj\Debug\net10.0\ref\StreamBuzz.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\obj\Debug\net10.0\HalfAscendingHalfDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\obj\Debug\net10.0\HalfAscendingHalfDescending.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\obj\Debug\net10.0\HalfAscendingHalfDescending.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\obj\Debug\net10.0\HalfAscendingHalfDescending.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\bin\Debug\net10.0\HalfAscendingHalfDescending.exe
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\bin\Debug\net10.0\HalfAscendingHalfDescending.deps.json
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\bin\Debug\net10.0\HalfAscendingHalfDescending.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\bin\Debug\net10.0\HalfAscendingHalfDescending.dll
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\bin\Debug\net10.0\HalfAscendingHalfDescending.pdb
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\obj\Debug\net10.0\HalfAscendingHalfDescending.dll
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\obj\Debug\net10.0\refint\HalfAscendingHalfDescending.dll
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\obj\Debug\net10.0\HalfAscendingHalfDescending.pdb
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\obj\Debug\net10.0\HalfAscendingHalfDescending.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day2\HalfAscendingHalfDescending\obj\Debug\net10.0\ref\HalfAscendingHalfDescending.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\bin\Debug\net10.0\TempratureConverstion.exe
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\bin\Debug\net10.0\TempratureConverstion.deps.json
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\bin\Debug\net10.0\TempratureConverstion.runtimeconfig.json
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\bin\Debug\net10.0\TempratureConverstion.dll
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\bin\Debug\net10.0\TempratureConverstion.pdb
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\obj\Debug\net10.0\TempratureConverstion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\obj\Debug\net10.0\TempratureConverstion.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\obj\Debug\net10.0\TempratureConverstion.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\obj\Debug\net10.0\TempratureConverstion.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\obj\Debug\net10.0\TempratureConverstion.dll
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\obj\Debug\net10.0\refint\TempratureConverstion.dll
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\obj\Debug\net10.0\TempratureConverstion.pdb
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\obj\Debug\net10.0\TempratureConverstion.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week1\Day5\TempratureConverstion\obj\Debug\net10.0\ref\TempratureConverstion.dll

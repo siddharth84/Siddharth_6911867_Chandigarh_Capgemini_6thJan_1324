@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.exe
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.deps.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.runtimeconfig.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\bin\Debug\net10.0\Product Inventory Management.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\obj\Debug\net10.0\refint\Product Inventory Management.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\obj\Debug\net10.0\Product Inventory Management.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Product Inventory Management\obj\Debug\net10.0\ref\Product Inventory Management.dll

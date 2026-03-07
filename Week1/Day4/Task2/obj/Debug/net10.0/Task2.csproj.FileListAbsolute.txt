@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week1\Day4\Task2\bin\Debug\net10.0\Task2.exe
+C:\Users\dell\source\repos\Week1\Day4\Task2\bin\Debug\net10.0\Task2.deps.json
+C:\Users\dell\source\repos\Week1\Day4\Task2\bin\Debug\net10.0\Task2.runtimeconfig.json
+C:\Users\dell\source\repos\Week1\Day4\Task2\bin\Debug\net10.0\Task2.dll
+C:\Users\dell\source\repos\Week1\Day4\Task2\bin\Debug\net10.0\Task2.pdb
+C:\Users\dell\source\repos\Week1\Day4\Task2\obj\Debug\net10.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week1\Day4\Task2\obj\Debug\net10.0\Task2.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week1\Day4\Task2\obj\Debug\net10.0\Task2.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week1\Day4\Task2\obj\Debug\net10.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week1\Day4\Task2\obj\Debug\net10.0\Task2.dll
+C:\Users\dell\source\repos\Week1\Day4\Task2\obj\Debug\net10.0\refint\Task2.dll
+C:\Users\dell\source\repos\Week1\Day4\Task2\obj\Debug\net10.0\Task2.pdb
+C:\Users\dell\source\repos\Week1\Day4\Task2\obj\Debug\net10.0\Task2.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week1\Day4\Task2\obj\Debug\net10.0\ref\Task2.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\obj\Debug\net10.0\TheardsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\obj\Debug\net10.0\TheardsDemo.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\obj\Debug\net10.0\TheardsDemo.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\obj\Debug\net10.0\TheardsDemo.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\bin\Debug\net10.0\TheardsDemo.exe
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\bin\Debug\net10.0\TheardsDemo.deps.json
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\bin\Debug\net10.0\TheardsDemo.runtimeconfig.json
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\bin\Debug\net10.0\TheardsDemo.dll
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\bin\Debug\net10.0\TheardsDemo.pdb
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\obj\Debug\net10.0\TheardsDemo.dll
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\obj\Debug\net10.0\refint\TheardsDemo.dll
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\obj\Debug\net10.0\TheardsDemo.pdb
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\obj\Debug\net10.0\TheardsDemo.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\TheardsDemo\obj\Debug\net10.0\ref\TheardsDemo.dll

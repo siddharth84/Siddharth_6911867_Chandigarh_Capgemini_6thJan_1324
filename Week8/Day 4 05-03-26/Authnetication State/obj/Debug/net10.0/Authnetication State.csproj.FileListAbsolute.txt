@@ -1,0 +1,14 @@
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\bin\Debug\net10.0\Authnetication State.exe
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\bin\Debug\net10.0\Authnetication State.deps.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\bin\Debug\net10.0\Authnetication State.runtimeconfig.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\bin\Debug\net10.0\Authnetication State.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\bin\Debug\net10.0\Authnetication State.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\obj\Debug\net10.0\Authnetication State.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\obj\Debug\net10.0\Authnetication State.AssemblyInfoInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\obj\Debug\net10.0\Authnetication State.AssemblyInfo.cs
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\obj\Debug\net10.0\Authnetication State.csproj.CoreCompileInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\obj\Debug\net10.0\Authnetication State.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\obj\Debug\net10.0\refint\Authnetication State.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\obj\Debug\net10.0\Authnetication State.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\obj\Debug\net10.0\Authnetication State.genruntimeconfig.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\Authnetication State\obj\Debug\net10.0\ref\Authnetication State.dll

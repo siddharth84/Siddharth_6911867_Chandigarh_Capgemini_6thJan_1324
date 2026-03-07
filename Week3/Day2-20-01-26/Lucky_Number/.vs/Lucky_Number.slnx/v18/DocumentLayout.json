@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Week3\\Day2-20-01-26\\Lucky_Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D57508-EA52-4D62-91D4-AE2126159271}|Lucky_Number.csproj|c:\\users\\dell\\source\\repos\\week3\\day2-20-01-26\\lucky_number\\usermaincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D57508-EA52-4D62-91D4-AE2126159271}|Lucky_Number.csproj|solutionrelative:usermaincode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D57508-EA52-4D62-91D4-AE2126159271}|Lucky_Number.csproj|c:\\users\\dell\\source\\repos\\week3\\day2-20-01-26\\lucky_number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1D57508-EA52-4D62-91D4-AE2126159271}|Lucky_Number.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMainCode.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week3\\Day2-20-01-26\\Lucky_Number\\UserMainCode.cs",
+              "RelativeDocumentMoniker": "UserMainCode.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week3\\Day2-20-01-26\\Lucky_Number\\UserMainCode.cs",
+              "RelativeToolTip": "UserMainCode.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:00:51.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week3\\Day2-20-01-26\\Lucky_Number\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week3\\Day2-20-01-26\\Lucky_Number\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:59:08.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

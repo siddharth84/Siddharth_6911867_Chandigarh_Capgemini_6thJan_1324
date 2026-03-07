@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\bin\Debug\net10.0\PerfectNumber.exe
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\bin\Debug\net10.0\PerfectNumber.deps.json
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\bin\Debug\net10.0\PerfectNumber.runtimeconfig.json
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\bin\Debug\net10.0\PerfectNumber.dll
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\bin\Debug\net10.0\PerfectNumber.pdb
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\obj\Debug\net10.0\PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\obj\Debug\net10.0\PerfectNumber.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\obj\Debug\net10.0\PerfectNumber.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\obj\Debug\net10.0\PerfectNumber.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\obj\Debug\net10.0\PerfectNumber.dll
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\obj\Debug\net10.0\refint\PerfectNumber.dll
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\obj\Debug\net10.0\PerfectNumber.pdb
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\obj\Debug\net10.0\PerfectNumber.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week1\Day5\PerfectNumber\obj\Debug\net10.0\ref\PerfectNumber.dll

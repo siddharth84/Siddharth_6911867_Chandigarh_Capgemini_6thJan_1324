@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week1\ResearchProject\bin\Debug\net10.0\ResearchProject.exe
+C:\Users\dell\source\repos\Week1\ResearchProject\bin\Debug\net10.0\ResearchProject.deps.json
+C:\Users\dell\source\repos\Week1\ResearchProject\bin\Debug\net10.0\ResearchProject.runtimeconfig.json
+C:\Users\dell\source\repos\Week1\ResearchProject\bin\Debug\net10.0\ResearchProject.dll
+C:\Users\dell\source\repos\Week1\ResearchProject\bin\Debug\net10.0\ResearchProject.pdb
+C:\Users\dell\source\repos\Week1\ResearchProject\obj\Debug\net10.0\ResearchProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week1\ResearchProject\obj\Debug\net10.0\ResearchProject.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week1\ResearchProject\obj\Debug\net10.0\ResearchProject.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week1\ResearchProject\obj\Debug\net10.0\ResearchProject.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week1\ResearchProject\obj\Debug\net10.0\ResearchProject.dll
+C:\Users\dell\source\repos\Week1\ResearchProject\obj\Debug\net10.0\refint\ResearchProject.dll
+C:\Users\dell\source\repos\Week1\ResearchProject\obj\Debug\net10.0\ResearchProject.pdb
+C:\Users\dell\source\repos\Week1\ResearchProject\obj\Debug\net10.0\ResearchProject.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week1\ResearchProject\obj\Debug\net10.0\ref\ResearchProject.dll

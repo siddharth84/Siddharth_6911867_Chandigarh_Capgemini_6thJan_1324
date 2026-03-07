@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\bin\Debug\net10.0\AddYear.exe
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\bin\Debug\net10.0\AddYear.deps.json
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\bin\Debug\net10.0\AddYear.runtimeconfig.json
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\bin\Debug\net10.0\AddYear.dll
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\bin\Debug\net10.0\AddYear.pdb
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\obj\Debug\net10.0\AddYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\obj\Debug\net10.0\AddYear.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\obj\Debug\net10.0\AddYear.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\obj\Debug\net10.0\AddYear.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\obj\Debug\net10.0\AddYear.dll
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\obj\Debug\net10.0\refint\AddYear.dll
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\obj\Debug\net10.0\AddYear.pdb
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\obj\Debug\net10.0\AddYear.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week4\Day4 30-01-26\AddYear\obj\Debug\net10.0\ref\AddYear.dll

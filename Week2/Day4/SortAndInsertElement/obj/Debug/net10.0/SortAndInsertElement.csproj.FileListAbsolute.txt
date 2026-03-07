@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\bin\Debug\net10.0\SortAndInsertElement.exe
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\bin\Debug\net10.0\SortAndInsertElement.deps.json
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\bin\Debug\net10.0\SortAndInsertElement.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\bin\Debug\net10.0\SortAndInsertElement.dll
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\bin\Debug\net10.0\SortAndInsertElement.pdb
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\obj\Debug\net10.0\SortAndInsertElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\obj\Debug\net10.0\SortAndInsertElement.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\obj\Debug\net10.0\SortAndInsertElement.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\obj\Debug\net10.0\SortAndInsertElement.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\obj\Debug\net10.0\SortAndInsertElement.dll
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\obj\Debug\net10.0\refint\SortAndInsertElement.dll
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\obj\Debug\net10.0\SortAndInsertElement.pdb
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\obj\Debug\net10.0\SortAndInsertElement.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\SortAndInsertElement\obj\Debug\net10.0\ref\SortAndInsertElement.dll

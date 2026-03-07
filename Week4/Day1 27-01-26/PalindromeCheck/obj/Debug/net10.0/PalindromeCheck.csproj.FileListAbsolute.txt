@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\bin\Debug\net10.0\PalindromeCheck.exe
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\bin\Debug\net10.0\PalindromeCheck.deps.json
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\bin\Debug\net10.0\PalindromeCheck.runtimeconfig.json
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\bin\Debug\net10.0\PalindromeCheck.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\bin\Debug\net10.0\PalindromeCheck.pdb
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\obj\Debug\net10.0\PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\obj\Debug\net10.0\PalindromeCheck.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\obj\Debug\net10.0\PalindromeCheck.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\obj\Debug\net10.0\PalindromeCheck.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\obj\Debug\net10.0\PalindromeCheck.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\obj\Debug\net10.0\refint\PalindromeCheck.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\obj\Debug\net10.0\PalindromeCheck.pdb
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\obj\Debug\net10.0\PalindromeCheck.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\PalindromeCheck\obj\Debug\net10.0\ref\PalindromeCheck.dll

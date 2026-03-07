@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\bin\Debug\net10.0\Bank_Management_System.exe
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\bin\Debug\net10.0\Bank_Management_System.deps.json
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\bin\Debug\net10.0\Bank_Management_System.runtimeconfig.json
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\bin\Debug\net10.0\Bank_Management_System.dll
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\bin\Debug\net10.0\Bank_Management_System.pdb
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\obj\Debug\net10.0\Bank_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\obj\Debug\net10.0\Bank_Management_System.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\obj\Debug\net10.0\Bank_Management_System.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\obj\Debug\net10.0\Bank_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\obj\Debug\net10.0\Bank_Management_System.dll
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\obj\Debug\net10.0\refint\Bank_Management_System.dll
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\obj\Debug\net10.0\Bank_Management_System.pdb
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\obj\Debug\net10.0\Bank_Management_System.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week3\Day1-19-01-26\Bank_Management_System\obj\Debug\net10.0\ref\Bank_Management_System.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.exe
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.deps.json
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.dll
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\bin\Debug\net10.0\BinaryToDecimal.pdb
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.dll
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\obj\Debug\net10.0\refint\BinaryToDecimal.dll
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.pdb
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\obj\Debug\net10.0\BinaryToDecimal.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day3\BinaryToDecimal\obj\Debug\net10.0\ref\BinaryToDecimal.dll

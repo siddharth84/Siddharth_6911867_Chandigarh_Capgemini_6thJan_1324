@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\bin\Debug\net10.0\LuckyString.exe
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\bin\Debug\net10.0\LuckyString.deps.json
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\bin\Debug\net10.0\LuckyString.runtimeconfig.json
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\bin\Debug\net10.0\LuckyString.dll
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\bin\Debug\net10.0\LuckyString.pdb
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\obj\Debug\net10.0\LuckyString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\obj\Debug\net10.0\LuckyString.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\obj\Debug\net10.0\LuckyString.dll
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\obj\Debug\net10.0\refint\LuckyString.dll
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\obj\Debug\net10.0\LuckyString.pdb
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\obj\Debug\net10.0\LuckyString.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\LuckyString\obj\Debug\net10.0\ref\LuckyString.dll

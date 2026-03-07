@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\bin\Debug\net10.0\LeapYear.exe
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\bin\Debug\net10.0\LeapYear.deps.json
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\bin\Debug\net10.0\LeapYear.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\bin\Debug\net10.0\LeapYear.dll
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\bin\Debug\net10.0\LeapYear.pdb
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\obj\Debug\net10.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\obj\Debug\net10.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\obj\Debug\net10.0\LeapYear.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\obj\Debug\net10.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\obj\Debug\net10.0\LeapYear.dll
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\obj\Debug\net10.0\refint\LeapYear.dll
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\obj\Debug\net10.0\LeapYear.pdb
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\obj\Debug\net10.0\LeapYear.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\LeapYear\obj\Debug\net10.0\ref\LeapYear.dll

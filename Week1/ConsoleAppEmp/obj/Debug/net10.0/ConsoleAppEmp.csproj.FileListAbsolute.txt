@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\bin\Debug\net10.0\ConsoleAppEmp.exe
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\bin\Debug\net10.0\ConsoleAppEmp.deps.json
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\bin\Debug\net10.0\ConsoleAppEmp.runtimeconfig.json
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\bin\Debug\net10.0\ConsoleAppEmp.dll
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\bin\Debug\net10.0\ConsoleAppEmp.pdb
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\obj\Debug\net10.0\ConsoleAppEmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\obj\Debug\net10.0\ConsoleAppEmp.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\obj\Debug\net10.0\ConsoleAppEmp.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\obj\Debug\net10.0\ConsoleAppEmp.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\obj\Debug\net10.0\ConsoleAppEmp.dll
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\obj\Debug\net10.0\refint\ConsoleAppEmp.dll
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\obj\Debug\net10.0\ConsoleAppEmp.pdb
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\obj\Debug\net10.0\ConsoleAppEmp.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week1\ConsoleAppEmp\obj\Debug\net10.0\ref\ConsoleAppEmp.dll

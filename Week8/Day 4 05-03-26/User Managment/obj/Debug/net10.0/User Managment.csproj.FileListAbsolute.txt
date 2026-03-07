@@ -1,0 +1,28 @@
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\bin\Debug\net10.0\User Managment.exe
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\bin\Debug\net10.0\User Managment.deps.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\bin\Debug\net10.0\User Managment.runtimeconfig.json
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\bin\Debug\net10.0\User Managment.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\bin\Debug\net10.0\User Managment.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\obj\Debug\net10.0\User Managment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\obj\Debug\net10.0\User Managment.AssemblyInfoInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\obj\Debug\net10.0\User Managment.AssemblyInfo.cs
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\obj\Debug\net10.0\User Managment.csproj.CoreCompileInputs.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\obj\Debug\net10.0\User Managment.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\obj\Debug\net10.0\refint\User Managment.dll
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\obj\Debug\net10.0\User Managment.pdb
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\obj\Debug\net10.0\User Managment.genruntimeconfig.cache
+D:\Capgemini_cu_section3_.netwithazure_Kashish\WEEK 9 [2 MARCH 2026 - 7 MARCH 2026]\DAY 42 3 MARCH 2026\M1 QUESTIONS\User Managment\obj\Debug\net10.0\ref\User Managment.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\bin\Debug\net10.0\User Managment.exe
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\bin\Debug\net10.0\User Managment.deps.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\bin\Debug\net10.0\User Managment.runtimeconfig.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\bin\Debug\net10.0\User Managment.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\bin\Debug\net10.0\User Managment.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\obj\Debug\net10.0\User Managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\obj\Debug\net10.0\User Managment.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\obj\Debug\net10.0\User Managment.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\obj\Debug\net10.0\User Managment.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\obj\Debug\net10.0\User Managment.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\obj\Debug\net10.0\refint\User Managment.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\obj\Debug\net10.0\User Managment.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\obj\Debug\net10.0\User Managment.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\User Managment\obj\Debug\net10.0\ref\User Managment.dll

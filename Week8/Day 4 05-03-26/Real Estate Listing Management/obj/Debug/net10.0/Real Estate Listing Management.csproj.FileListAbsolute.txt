@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.exe
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.deps.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.runtimeconfig.json
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\bin\Debug\net10.0\Real Estate Listing Management.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\obj\Debug\net10.0\refint\Real Estate Listing Management.dll
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.pdb
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\obj\Debug\net10.0\Real Estate Listing Management.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week8\Day 4 05-03-26\Real Estate Listing Management\obj\Debug\net10.0\ref\Real Estate Listing Management.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\bin\Debug\net10.0\ProductOfMaxAndMin.exe
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\bin\Debug\net10.0\ProductOfMaxAndMin.deps.json
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\bin\Debug\net10.0\ProductOfMaxAndMin.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\bin\Debug\net10.0\ProductOfMaxAndMin.dll
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\bin\Debug\net10.0\ProductOfMaxAndMin.pdb
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\obj\Debug\net10.0\ProductOfMaxAndMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\obj\Debug\net10.0\ProductOfMaxAndMin.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\obj\Debug\net10.0\ProductOfMaxAndMin.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\obj\Debug\net10.0\ProductOfMaxAndMin.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\obj\Debug\net10.0\ProductOfMaxAndMin.dll
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\obj\Debug\net10.0\refint\ProductOfMaxAndMin.dll
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\obj\Debug\net10.0\ProductOfMaxAndMin.pdb
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\obj\Debug\net10.0\ProductOfMaxAndMin.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\ProductOfMaxAndMin\obj\Debug\net10.0\ref\ProductOfMaxAndMin.dll

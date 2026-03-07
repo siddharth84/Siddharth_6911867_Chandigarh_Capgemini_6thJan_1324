@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.exe
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.deps.json
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.runtimeconfig.json
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.dll
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.pdb
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.dll
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\obj\Debug\net10.0\refint\Remove_Duplicates.dll
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.pdb
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week1\Day5\Remove_Duplicates\obj\Debug\net10.0\ref\Remove_Duplicates.dll

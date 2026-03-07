@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\bin\Debug\net10.0\SumofFactors.exe
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\bin\Debug\net10.0\SumofFactors.deps.json
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\bin\Debug\net10.0\SumofFactors.runtimeconfig.json
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\bin\Debug\net10.0\SumofFactors.dll
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\bin\Debug\net10.0\SumofFactors.pdb
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\obj\Debug\net10.0\SumofFactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\obj\Debug\net10.0\SumofFactors.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\obj\Debug\net10.0\SumofFactors.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\obj\Debug\net10.0\SumofFactors.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\obj\Debug\net10.0\SumofFactors.dll
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\obj\Debug\net10.0\refint\SumofFactors.dll
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\obj\Debug\net10.0\SumofFactors.pdb
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\obj\Debug\net10.0\SumofFactors.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week2\Day4\SumofFactors\obj\Debug\net10.0\ref\SumofFactors.dll

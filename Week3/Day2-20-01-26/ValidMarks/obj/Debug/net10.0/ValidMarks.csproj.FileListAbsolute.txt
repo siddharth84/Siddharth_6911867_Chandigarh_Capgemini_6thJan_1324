@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\bin\Debug\net10.0\ValidMarks.exe
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\bin\Debug\net10.0\ValidMarks.deps.json
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\bin\Debug\net10.0\ValidMarks.runtimeconfig.json
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\bin\Debug\net10.0\ValidMarks.dll
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\bin\Debug\net10.0\ValidMarks.pdb
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\obj\Debug\net10.0\ValidMarks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\obj\Debug\net10.0\ValidMarks.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\obj\Debug\net10.0\ValidMarks.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\obj\Debug\net10.0\ValidMarks.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\obj\Debug\net10.0\ValidMarks.dll
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\obj\Debug\net10.0\refint\ValidMarks.dll
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\obj\Debug\net10.0\ValidMarks.pdb
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\obj\Debug\net10.0\ValidMarks.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\ValidMarks\obj\Debug\net10.0\ref\ValidMarks.dll

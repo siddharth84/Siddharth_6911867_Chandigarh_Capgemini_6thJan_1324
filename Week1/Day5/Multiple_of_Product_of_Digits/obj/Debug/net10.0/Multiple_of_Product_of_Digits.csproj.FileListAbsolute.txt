@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\bin\Debug\net10.0\Multiple_of_Product_of_Digits.exe
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\bin\Debug\net10.0\Multiple_of_Product_of_Digits.deps.json
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\bin\Debug\net10.0\Multiple_of_Product_of_Digits.runtimeconfig.json
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\bin\Debug\net10.0\Multiple_of_Product_of_Digits.dll
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\bin\Debug\net10.0\Multiple_of_Product_of_Digits.pdb
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\obj\Debug\net10.0\Multiple_of_Product_of_Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\obj\Debug\net10.0\Multiple_of_Product_of_Digits.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\obj\Debug\net10.0\Multiple_of_Product_of_Digits.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\obj\Debug\net10.0\Multiple_of_Product_of_Digits.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\obj\Debug\net10.0\Multiple_of_Product_of_Digits.dll
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\obj\Debug\net10.0\refint\Multiple_of_Product_of_Digits.dll
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\obj\Debug\net10.0\Multiple_of_Product_of_Digits.pdb
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\obj\Debug\net10.0\Multiple_of_Product_of_Digits.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week1\Day5\Multiple_of_Product_of_Digits\obj\Debug\net10.0\ref\Multiple_of_Product_of_Digits.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Authnetication State/1.0.0": {
+        "runtime": {
+          "Authnetication State.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Authnetication State/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\bin\Debug\net10.0\MahirlAndMath.exe
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\bin\Debug\net10.0\MahirlAndMath.deps.json
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\bin\Debug\net10.0\MahirlAndMath.runtimeconfig.json
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\bin\Debug\net10.0\MahirlAndMath.dll
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\bin\Debug\net10.0\MahirlAndMath.pdb
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\obj\Debug\net10.0\MahirlAndMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\obj\Debug\net10.0\MahirlAndMath.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\obj\Debug\net10.0\MahirlAndMath.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\obj\Debug\net10.0\MahirlAndMath.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\obj\Debug\net10.0\MahirlAndMath.dll
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\obj\Debug\net10.0\refint\MahirlAndMath.dll
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\obj\Debug\net10.0\MahirlAndMath.pdb
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\obj\Debug\net10.0\MahirlAndMath.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week3\Day2-20-01-26\MahirlAndMath\obj\Debug\net10.0\ref\MahirlAndMath.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\bin\Debug\net10.0\AreAnagrams.exe
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\bin\Debug\net10.0\AreAnagrams.deps.json
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\bin\Debug\net10.0\AreAnagrams.runtimeconfig.json
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\bin\Debug\net10.0\AreAnagrams.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\bin\Debug\net10.0\AreAnagrams.pdb
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\obj\Debug\net10.0\AreAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\obj\Debug\net10.0\AreAnagrams.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\obj\Debug\net10.0\AreAnagrams.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\obj\Debug\net10.0\AreAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\obj\Debug\net10.0\AreAnagrams.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\obj\Debug\net10.0\refint\AreAnagrams.dll
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\obj\Debug\net10.0\AreAnagrams.pdb
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\obj\Debug\net10.0\AreAnagrams.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week4\Day1 27-01-26\AreAnagrams\obj\Debug\net10.0\ref\AreAnagrams.dll

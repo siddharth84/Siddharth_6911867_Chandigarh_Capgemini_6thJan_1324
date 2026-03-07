@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\bin\Debug\net10.0\DigitSumInString.exe
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\bin\Debug\net10.0\DigitSumInString.deps.json
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\bin\Debug\net10.0\DigitSumInString.runtimeconfig.json
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\bin\Debug\net10.0\DigitSumInString.dll
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\bin\Debug\net10.0\DigitSumInString.pdb
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\obj\Debug\net10.0\DigitSumInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\obj\Debug\net10.0\DigitSumInString.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\obj\Debug\net10.0\DigitSumInString.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\obj\Debug\net10.0\DigitSumInString.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\obj\Debug\net10.0\DigitSumInString.dll
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\obj\Debug\net10.0\refint\DigitSumInString.dll
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\obj\Debug\net10.0\DigitSumInString.pdb
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\obj\Debug\net10.0\DigitSumInString.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week4\Day3 29-01-26\DigitSumInString\obj\Debug\net10.0\ref\DigitSumInString.dll

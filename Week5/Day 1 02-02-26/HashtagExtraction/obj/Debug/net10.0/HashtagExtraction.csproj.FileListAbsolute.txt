@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.exe
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.deps.json
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.runtimeconfig.json
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.dll
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.pdb
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.AssemblyInfo.cs
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.dll
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\obj\Debug\net10.0\refint\HashtagExtraction.dll
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.pdb
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.genruntimeconfig.cache
+C:\Users\dell\source\repos\Week5\Day 1 02-02-26\HashtagExtraction\obj\Debug\net10.0\ref\HashtagExtraction.dll
