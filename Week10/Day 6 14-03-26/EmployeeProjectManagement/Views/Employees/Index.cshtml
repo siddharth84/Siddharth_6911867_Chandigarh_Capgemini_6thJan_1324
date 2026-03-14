@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Employee>
+
+<h2>Employees List</h2>
+
+<a href="/Employees/Create">Create New Employee</a>
+
+<br />
+<br />
+
+<table border="1" cellpadding="8">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Projects</th>
+    </tr>
+
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.EmployeeId</td>
+            <td>@emp.Name</td>
+            <td>@emp.Department?.Name</td>
+            <td>
+                @if (emp.EmployeeProjects != null)
+                {
+                    foreach (var ep in emp.EmployeeProjects)
+                    {
+                        <span>@ep.Project?.Title</span>
+
+                        <br />
+                    }
+                }
+            </td>
+        </tr>
+    }
+
+</table>

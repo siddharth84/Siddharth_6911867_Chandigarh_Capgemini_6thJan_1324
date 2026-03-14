@@ -1,0 +1,24 @@
+﻿@model Project
+
+<h2>Create Project</h2>
+
+<form asp-action="Create">
+
+    <label>Project Title</label>
+    <input asp-for="Title" />
+
+    <br /><br />
+
+    <label>Select Employees</label>
+    <select name="employeeIds" multiple>
+        @foreach (var e in ViewBag.Employees)
+        {
+            <option value="@e.EmployeeId">@e.Name</option>
+        }
+    </select>
+
+    <br /><br />
+
+    <button type="submit">Save</button>
+
+</form>

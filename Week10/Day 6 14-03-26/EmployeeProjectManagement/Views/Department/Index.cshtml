@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Department>
+
+<h2>Departments</h2>
+
+<a href="/Department/Create">Create New Department</a>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+    </tr>
+
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.DepartmentId</td>
+            <td>@d.Name</td>
+        </tr>
+    }
+</table>

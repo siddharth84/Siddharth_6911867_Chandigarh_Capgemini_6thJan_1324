@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Employee>
+
+<h2>Employees In Project</h2>
+
+<ul>
+    @foreach (var emp in Model)
+    {
+        <li>@emp.Name</li>
+    }
+</ul>

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\middleware\\adminauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:middleware\\adminauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\controllers\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:controllers\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\controllers\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:controllers\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\middleware\\adminauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:middleware\\adminauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|c:\\users\\dell\\source\\repos\\week10\\day 4 12-03-26\\routingauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E86B2090-459E-23DA-658B-B7BF71B194AC}|RoutingAuthentication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,18 +67,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T09:21:56.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Controllers\\Admin\\DashboardController.cs",
               "RelativeDocumentMoniker": "Controllers\\Admin\\DashboardController.cs",
@@ -86,23 +74,25 @@
               "RelativeToolTip": "Controllers\\Admin\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T09:21:19.516Z"
+              "WhenOpened": "2026-03-12T09:21:19.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AdminAuthMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Middleware\\AdminAuthMiddleware.cs",
               "RelativeDocumentMoniker": "Middleware\\AdminAuthMiddleware.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Middleware\\AdminAuthMiddleware.cs",
               "RelativeToolTip": "Middleware\\AdminAuthMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T09:18:42.949Z"
+              "WhenOpened": "2026-03-12T09:18:42.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Services\\AuthService.cs",
@@ -115,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Services\\IAuthService.cs",
               "RelativeDocumentMoniker": "Services\\IAuthService.cs",
@@ -127,7 +117,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:17:53.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:21:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Dashboard\\Index.cshtml",
@@ -139,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Views\\Admin\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Dashboard\\Index.cshtml",
@@ -151,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
@@ -163,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Views\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
@@ -175,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
@@ -187,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -196,18 +211,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-12T09:26:51.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\Week10\\Day 4 12-03-26\\RoutingAuthentication\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T09:17:53.06Z"
             }
           ]
         }
