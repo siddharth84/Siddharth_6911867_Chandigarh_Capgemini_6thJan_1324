@@ -1,0 +1,74 @@
+@page
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="row justify-content-center mt-5">
+    <div class="col-md-4">
+        <div class="card shadow-lg border-0">
+            <div class="card-header bg-primary text-white text-center py-3">
+                <h4 class="mb-0">Event System Login</h4>
+            </div>
+            <div class="card-body p-4">
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Username</label>
+                    <input type="text" id="userInput" class="form-control" placeholder="admin or user" />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label fw-bold">Password</label>
+                    <input type="password" id="passInput" class="form-control" placeholder="password" />
+                </div>
+                <button onclick="handleLogin()" id="loginBtn" class="btn btn-primary w-100 fw-bold py-2">Login</button>
+                
+                <div id="errorMessage" class="alert alert-danger mt-3" style="display:none;"></div>
+            </div>
+            <div class="card-footer text-center bg-light small">
+                Default: <b>admin</b> / <b>password</b>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    async function handleLogin() {
+        const user = document.getElementById("userInput").value;
+        const pass = document.getElementById("passInput").value;
+        const errorDiv = document.getElementById("errorMessage");
+        const btn = document.getElementById("loginBtn");
+
+        errorDiv.style.display = "none";
+        btn.disabled = true;
+        btn.innerText = "Authenticating...";
+
+        try {
+            // Updated keys to match C# property names exactly (Username, Password)
+            const response = await fetch("http://localhost:5259/api/auth/login", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ 
+                    Username: user, 
+                    Password: pass 
+                })
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                
+                localStorage.setItem("token", data.token);
+                localStorage.setItem("userRole", data.role);
+                
+                alert("Login successful as " + data.role);
+                window.location.href = "/"; 
+            } else {
+                errorDiv.innerText = "Invalid credentials. Try admin / password";
+                errorDiv.style.display = "block";
+            }
+        } catch (err) {
+            errorDiv.innerText = "Error: Backend API is not responding on port 5259.";
+            errorDiv.style.display = "block";
+        } finally {
+            btn.disabled = false;
+            btn.innerText = "Login";
+        }
+    }
+</script>

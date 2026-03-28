@@ -1,0 +1,25 @@
+﻿@model ECommerceSystem.Models.ShippingDetail
+
+<h2>Edit Shipping</h2>
+
+<form asp-action="Edit" method="post">
+
+    <input type="hidden" asp-for="ShippingDetailId" />
+    <input type="hidden" asp-for="OrderId" /> 
+
+    <div class="mb-3">
+        <label>Address</label>
+        <input asp-for="Address" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Status</label>
+        <select asp-for="Status" class="form-control">
+            <option>Pending</option>
+            <option>Shipped</option>
+            <option>Delivered</option>
+        </select>
+    </div>
+
+    <button class="btn btn-primary">Update</button>
+</form>

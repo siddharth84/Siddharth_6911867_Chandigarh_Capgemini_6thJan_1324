@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Place Order";
+}
+
+<h2>Place Order</h2>
+
+<form asp-action="Create" method="post">
+
+    <div class="mb-3">
+        <label>Customer</label>
+        <select name="CustomerId" class="form-control">
+            @foreach (var c in ViewBag.Customers)
+            {
+                <option value="@c.CustomerId">@c.Name</option>
+            }
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label>Product</label>
+        <select name="Items[0].ProductId" class="form-control">
+            @foreach (var p in ViewBag.Products)
+            {
+                <option value="@p.ProductId">@p.Name</option>
+            }
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label>Quantity</label>
+        <input name="Items[0].Quantity" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Address</label>
+        <input name="Address" class="form-control" />
+    </div>
+
+    <button class="btn btn-success">Place Order</button>
+</form>

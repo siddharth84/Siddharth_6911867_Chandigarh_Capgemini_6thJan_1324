@@ -1,0 +1,18 @@
+﻿@model List<ECommerceSystem.Models.Order>
+
+<h2>Order History</h2>
+
+@foreach (var order in Model)
+{
+    <div class="card mb-3 p-3">
+        <h5>Order Date: @order.OrderDate</h5>
+        <p>Status: @order.ShippingDetail?.Status</p>
+
+        <ul>
+            @foreach (var item in order.OrderItems)
+            {
+                <li>@item.Product.Name - Qty: @item.Quantity</li>
+            }
+        </ul>
+    </div>
+}

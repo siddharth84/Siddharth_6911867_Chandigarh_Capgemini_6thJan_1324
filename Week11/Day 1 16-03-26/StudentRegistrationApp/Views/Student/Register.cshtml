@@ -1,0 +1,35 @@
+﻿@model StudentRegistrationApp.Models.Student
+
+@{
+    ViewData["Title"] = "Student Registration";
+}
+
+<h2>Student Registration</h2>
+
+<form asp-action="Register" method="post">
+
+    <div>
+        <label>Name</label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label>Age</label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <button type="submit">Register</button>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

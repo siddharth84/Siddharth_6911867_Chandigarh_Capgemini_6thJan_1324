@@ -1,0 +1,19 @@
+﻿<h2>Admin Dashboard</h2>
+
+<h4>Top Products</h4>
+<ul>
+    @foreach (var p in ViewBag.TopProducts)
+    {
+        <li>ProductId: @p.ProductId - Sold: @p.Quantity</li>
+    }
+</ul>
+
+<h4>Pending Orders</h4>
+<ul>
+    @foreach (var o in ViewBag.PendingOrders)
+    {
+        <li>OrderId: @o.OrderId - Status: @o.Status</li>
+    }
+</ul>
+
+<a href="/Account/Logout" class="btn btn-danger">Logout</a>

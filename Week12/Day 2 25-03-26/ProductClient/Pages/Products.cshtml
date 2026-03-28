@@ -1,0 +1,79 @@
+@page
+@model ProductClient.Pages.ProductsModel
+
+<div class="container mt-4">
+
+    <h2 class="mb-4 text-center">Product Management</h2>
+
+    <!-- Add Product Card -->
+    <div class="card mb-4 shadow">
+        <div class="card-header bg-primary text-white">
+            Add New Product
+        </div>
+        <div class="card-body">
+            <form method="post">
+                <div class="row g-2">
+                    <div class="col-md-5">
+                        <input type="text" name="Name" class="form-control" placeholder="Product Name" required />
+                    </div>
+                    <div class="col-md-4">
+                        <input type="number" name="Price" class="form-control" placeholder="Price" required />
+                    </div>
+                    <div class="col-md-3">
+                        <button type="submit" class="btn btn-success w-100">Add</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Products Table -->
+    <div class="card shadow">
+        <div class="card-header bg-dark text-white">
+            Product List
+        </div>
+        <div class="card-body">
+
+            <table class="table table-bordered table-hover">
+                <thead class="table-light">
+                    <tr>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th width="250">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                @foreach (var product in Model.Products)
+                {
+                    <tr>
+                        <td>
+                            <input type="text" class="form-control" value="@product.Name" form="edit-@product.Id" name="Name" />
+                        </td>
+                        <td>
+                            <input type="number" class="form-control" value="@product.Price" form="edit-@product.Id" name="Price" />
+                        </td>
+                        <td>
+                            <!-- Update -->
+                            <form method="post" asp-page-handler="Edit" id="edit-@product.Id" class="d-inline">
+                                <input type="hidden" name="Id" value="@product.Id" />
+                                <button type="submit" class="btn btn-warning btn-sm">Update</button>
+                            </form>
+
+                            <!-- Delete -->
+                            <form method="post" asp-page-handler="Delete" class="d-inline">
+                                <input type="hidden" name="id" value="@product.Id" />
+                                <button type="submit" class="btn btn-danger btn-sm"
+                                        onclick="return confirm('Delete this product?');">
+                                    Delete
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+</div>
