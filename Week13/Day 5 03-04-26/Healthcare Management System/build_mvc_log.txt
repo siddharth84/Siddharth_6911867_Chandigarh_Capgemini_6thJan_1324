@@ -1,0 +1,15 @@
+﻿  Determining projects to restore...
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.MVC\HealthcareManagementSystem.MVC.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.1.1 was resolved.
+  All projects are up-to-date for restore.
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.MVC\HealthcareManagementSystem.MVC.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.1.1 was resolved.
+  HealthcareManagementSystem.Core -> C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.Core\bin\Debug\net10.0\HealthcareManagementSystem.Core.dll
+  HealthcareManagementSystem.MVC -> C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.MVC\bin\Debug\net10.0\HealthcareManagementSystem.MVC.dll
+
+Build succeeded.
+
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.MVC\HealthcareManagementSystem.MVC.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.1.1 was resolved.
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.MVC\HealthcareManagementSystem.MVC.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.1.1 was resolved.
+    2 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.43

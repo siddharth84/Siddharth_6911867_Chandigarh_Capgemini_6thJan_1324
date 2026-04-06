@@ -1,0 +1,21 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+  HealthcareManagementSystem.Core -> C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.Core\bin\Debug\net10.0\HealthcareManagementSystem.Core.dll
+  HealthcareManagementSystem.MVC -> C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.MVC\bin\Debug\net10.0\HealthcareManagementSystem.MVC.dll
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Program.cs(27,32): error CS1503: Argument 2: cannot convert from 'System.Type' to 'System.Action<AutoMapper.IMapperConfigurationExpression>' [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Program.cs(47,80): warning CS8604: Possible null reference argument for parameter 's' in 'byte[] Encoding.GetBytes(string s)'. [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Repositories\Repository.cs(35,20): warning CS8603: Possible null reference return. [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Services\AuthService.cs(34,38): warning CS8603: Possible null reference return. [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Services\AuthService.cs(37,46): warning CS8604: Possible null reference argument for parameter 's' in 'byte[] Encoding.GetBytes(string s)'. [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+
+Build FAILED.
+
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Program.cs(47,80): warning CS8604: Possible null reference argument for parameter 's' in 'byte[] Encoding.GetBytes(string s)'. [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Repositories\Repository.cs(35,20): warning CS8603: Possible null reference return. [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Services\AuthService.cs(34,38): warning CS8603: Possible null reference return. [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Services\AuthService.cs(37,46): warning CS8604: Possible null reference argument for parameter 's' in 'byte[] Encoding.GetBytes(string s)'. [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\Program.cs(27,32): error CS1503: Argument 2: cannot convert from 'System.Type' to 'System.Action<AutoMapper.IMapperConfigurationExpression>' [C:\Users\dell\source\repos\Week13\Day 5 03-04-26\Healthcare Management System\HealthcareManagementSystem.API\HealthcareManagementSystem.API.csproj]
+    4 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:02.55

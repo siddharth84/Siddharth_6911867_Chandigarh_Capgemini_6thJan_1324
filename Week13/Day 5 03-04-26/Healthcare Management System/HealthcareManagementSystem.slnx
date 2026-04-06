@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HealthcareManagementSystem.API/HealthcareManagementSystem.API.csproj" />
+  <Project Path="HealthcareManagementSystem.Core/HealthcareManagementSystem.Core.csproj" />
+  <Project Path="HealthcareManagementSystem.MVC/HealthcareManagementSystem.MVC.csproj" />
+</Solution>

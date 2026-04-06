@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="text-center" style="margin-top: 2rem; padding: 2rem;">
+    <h1 class="display-4" style="color: var(--primary-color); font-weight: 700;">Dashboard</h1>
+    <p style="font-size: 1.2rem;">Welcome back, <strong>@User.Identity.Name</strong>!</p>
+    
+    <div class="glass-card" style="margin-top: 2rem; display: inline-block; text-align: left; background: white;">
+        <h3 style="margin-bottom: 1rem;">Quick Actions</h3>
+        <button class="btn-primary-custom" style="width:auto; margin: 0.5rem;">📅 Book Appointment</button>
+        <button class="btn-primary-custom" style="width:auto; margin: 0.5rem; background-color: #10b981;">🩺 View Prescriptions</button>
+    </div>
+</div>

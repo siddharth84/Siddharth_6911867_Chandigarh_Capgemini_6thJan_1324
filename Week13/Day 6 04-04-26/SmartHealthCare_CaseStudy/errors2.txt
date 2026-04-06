@@ -1,0 +1,9 @@
+c:\Users\dell\Downloads\CapG\SmartHealthCare_CaseStudy\src\SmartHealthcare.API\Services\DepartmentService.cs(47,27): error CS1061: 'IDepartmentRepository' does not contain a definition for 'UpdateAsync' and no accessible extension method 'UpdateAsync' accepting a first argument of type 'IDepartmentRepository' could be found (are you missing a using directive or an assembly reference?) [c:\Users\dell\Downloads\CapG\SmartHealthCare_CaseStudy\src\SmartHealthcare.API\SmartHealthcare.API.csproj]
+c:\Users\dell\Downloads\CapG\SmartHealthCare_CaseStudy\src\SmartHealthcare.API\Services\DepartmentService.cs(56,27): error CS1061: 'IDepartmentRepository' does not contain a definition for 'DeleteAsync' and no accessible extension method 'DeleteAsync' accepting a first argument of type 'IDepartmentRepository' could be found (are you missing a using directive or an assembly reference?) [c:\Users\dell\Downloads\CapG\SmartHealthCare_CaseStudy\src\SmartHealthcare.API\SmartHealthcare.API.csproj]
+c:\Users\dell\Downloads\CapG\SmartHealthCare_CaseStudy\src\SmartHealthcare.API\Services\BillService.cs(47,27): error CS1061: 'IBillRepository' does not contain a definition for 'UpdateAsync' and no accessible extension method 'UpdateAsync' accepting a first argument of type 'IBillRepository' could be found (are you missing a using directive or an assembly reference?) [c:\Users\dell\Downloads\CapG\SmartHealthCare_CaseStudy\src\SmartHealthcare.API\SmartHealthcare.API.csproj]
+
+Build FAILED.
+    25 Warning(s)
+    3 Error(s)
+
+Time Elapsed 00:00:03.95
